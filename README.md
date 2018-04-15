@@ -1,6 +1,7 @@
 # Ron Swanson Quote Slack Bot
 
 A very simple Slack bot based on the popular Parks and Rec character Ron Swanson (see here: https://www.youtube.com/watch?v=Tch4v0L0GHA).
+![Screenshot](/screenshots/screenshot.png)
 
 Built using the [jclg/php-slack-bot](https://github.com/jclg/php-slack-bot) framework and the [Ron Swanson Quote API](https://github.com/jamesseanwright/ron-swanson-quotes).
 

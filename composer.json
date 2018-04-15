@@ -1,0 +1,14 @@
+{
+    "name": "sharris/ron-swanson-quote-bot",
+    "description": "A Slack bot that quotes Ron Swanson using this API: https://github.com/jamesseanwright/ron-swanson-quotes",
+    "type": "project",
+    "require": {
+        "jclg/php-slack-bot": "^0.0.6"
+    },
+    "authors": [
+        {
+            "name": "Scott Harrison",
+            "email": "dev@scottharrisondesign.co.uk"
+        }
+    ]
+}
